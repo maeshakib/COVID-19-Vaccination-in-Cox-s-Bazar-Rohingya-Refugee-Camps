@@ -5,12 +5,14 @@ Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Di
 <img align="left" alt="covid 19 vacciantion timeline" width="1000px" src="https://github.com/maeshakib/z_resources/blob/main/covid_19_major_campaign.png" /> <br>
 <br>
 <br>
-## Month Over Month house/flats/rent analysis Page
-<img align="left" alt="MoM page | PBI" width="1000px" height="1000px" src="https://github.com/maeshakib/PowerBI-Dashboard-HouseRent/blob/main/PBI_2nd_page_houe_rent_dataset.png" /> <br>
+ 
+## Key contributions:
+* **Leadership and Coordination**: Led a verification team of 80 volunteers and 10 data management staff, coordinating efforts with WHO, UNICEF, implementing and operational partners, government officials, and the Civil Surgeon.
+* **Training and Support**: Conducted training sessions for volunteers, ensuring they were well-prepared for their roles.
+* **Planning and Logistics**: Supported the campaign with detailed planning and logistical support.
+* **Data Management**: Oversaw verification, reporting, data cleaning, and statistics generation.
+* **Verification Tools**: Utilized the Global Distribution Tool (GDT) for efficient distribution, proper verification, and ensuring the right people received the right vaccines.
 <br>
 <br>
-## Use map with house/flats/rent analysis 
+ 
 
-<picture>
-  <img align="left" alt="Location page | PBI" width="1000px" src="https://github.com/maeshakib/PowerBI-Dashboard-HouseRent/blob/main/PBI_3rd_page_houe_rent_dataset.png" /> <br>
-</picture>
