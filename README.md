@@ -14,5 +14,13 @@ Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Di
 * **Verification Tools**: Utilized the Global Distribution Tool (GDT) for efficient distribution, proper verification, and ensuring the right people received the right vaccines.
 <br>
 <br>
- 
 
+ ## Some memories of campaign:
+ 
+ <img src="https://github.com/maeshakib/z_resources/blob/main/covid%2019%20waiting%20area%20with%20gdt.png " width="600"/>
+  <img src="https://github.com/maeshakib/z_resources/blob/main/covid-19%20waiting%20area.png" width="600"/>
+ <img src="https://github.com/maeshakib/z_resources/blob/main/background%20work%20with%20team.jpg" width="600"/> 
+
+ <img src="https://github.com/maeshakib/z_resources/blob/main/backgound%20work.jpg " width="600"/> 
+
+ 
