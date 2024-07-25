@@ -20,6 +20,13 @@ Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Di
 - SQL Server
 - Excel
 - SSRS report
+
+
+## Challenges we used for distribution: 
+- Global Distribution Tool (GDT)
+- SQL Server
+- Excel
+- SSRS report
   
  ## Some memories of campaign:
  
