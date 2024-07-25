@@ -14,11 +14,13 @@ Under the Ministry of Health and Family Welfare (MOHFW) of Bangladesh and its Di
 * **Verification Tools**: Utilized the Global Distribution Tool (GDT) for efficient distribution, proper verification, and ensuring the right people received the right vaccines.
 <br/>
 <br/>
+
 ## Tool we used for distribution: 
 - Global Distribution Tool (GDT)
 - SQL Server
 - Excel
 - SSRS report
+  
  ## Some memories of campaign:
  
  <img src="https://github.com/maeshakib/z_resources/blob/main/covid%2019%20waiting%20area%20with%20gdt.png " width="600"/>
